@@ -27,4 +27,3 @@ to spurious binary commits in the past, have huge git histories.
 Cloning the standard services for the BAP adds up to a whopping 1.6GB
 download, whereas the actual source code is less than 1MB.  We will drop
 this repo once the issue has been fixed upstream.
-
